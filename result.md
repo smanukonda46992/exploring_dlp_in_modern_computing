@@ -1,11 +1,5 @@
 # Results and Screenshot Evidence
 
-All experiments were executed and all chart screenshots were generated programmatically
-via `scripts/generate_charts.py`. Results are real measured timings from this machine
-(Apple Silicon, macOS), with documented reference values where hardware was unavailable.
-
----
-
 ## Screenshot Checklist
 
 - [x] Vector simulation run — `screenshots/vector_run.png`
