@@ -12,7 +12,8 @@ build/
 dist/
 *.o
 *.out
-simd_benchmark*
+/simd_benchmark
+/simd_benchmark_*
 
 # Generated results and temp outputs
 outputs/
